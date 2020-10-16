@@ -6,4 +6,4 @@ segRestante = segRestante % 3600
 minuto = segRestante // 60
 segRestante = segRestante % 60
 
-print(dia,"dias,",hora,"horas,",minuto,"minutos,",segRestante,"segundos.")
+print(dia,"dias,",hora,"horas,",minuto,"minutos e",segRestante,"segundos.")
