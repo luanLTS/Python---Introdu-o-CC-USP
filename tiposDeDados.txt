@@ -1,0 +1,12 @@
+type(10) retorna o tipo do paremetro que é passado
+
+10 // 3 retorna o valor inteiro da divisão
+10 % 3 resto da divisão
+
+imc = peso / (altura ** 2) potencia **
+
+int(variavel) converte para inteiro
+
+len(texto) retorna o tamanho da string
+
+str(variavel) converte para string
