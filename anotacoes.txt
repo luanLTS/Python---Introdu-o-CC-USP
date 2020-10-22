@@ -1,0 +1,25 @@
+type(10) retorna o tipo do paremetro que é passado
+
+10 // 3 retorna o valor inteiro da divisão
+10 % 3 resto da divisão
+
+imc = peso / (altura ** 2) potencia **
+
+int(variavel) converte para inteiro
+str(variavel) converte para string
+float(variavel) converte para float
+
+len(texto) retorna o tamanho da string
+
+while (condição):
+    bloco de código
+
+print("mansagem %i &f" %variavel ) o % dentro da mensagem é onde a variavel que esta fora simbolizada pelo %
+vai ficar dentro do print que sera mostrado para o usuário 
+
+condicional if
+if condição : 
+    bloco de código caso seja verdadeira
+else:
+    Bloco de código caso seja falsa
+
