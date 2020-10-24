@@ -22,4 +22,10 @@ if condição :
     bloco de código caso seja verdadeira
 else:
     Bloco de código caso seja falsa
+*********************************************************************************************************
+Dica
 
+o resto da divisão de qualquer número por 10 sempre da a unidade desse número
+e a divisão inteira desse numero por 10 sempre elimina a unidade
+
+*********************************************************************************************************
