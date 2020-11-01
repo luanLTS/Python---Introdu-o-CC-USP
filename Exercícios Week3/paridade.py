@@ -1,4 +1,4 @@
-n = int(input("Digite um inteiro: \n"))
+n = int (input ("Digite um inteiro: \n"))
 
 if n % 2 == 0:
     print("par")
