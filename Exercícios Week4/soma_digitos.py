@@ -11,6 +11,6 @@ while i <= aux:
 print(soma)
 '''
 x = 123
-print(x//10) 
-print(x%10)
+print(x//10) retorna 12
+print(x%10) retorna 3
 '''
